@@ -9,7 +9,7 @@
       "title":"MutationObserver from MDN"
     },
     {
-      "url":"https://github.com/webcomponents/webcomponentsjs",
+      "url":"https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs",
       "title":"Polyfill"
     }
   ],
